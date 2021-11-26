@@ -2,4 +2,8 @@ hellow git
 second
 third - mybranch1
 fourth - my branch
+<<<<<<< HEAD
 some hot fix
+=======
+기능 1 추가
+>>>>>>> aea8864 (새로운 기능 1 추가)
